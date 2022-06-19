@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DepthProc"]
+	path = DepthProc
+	url = https://github.com/zzawadz/depthproc
+	shallow = true
+	registered = true
+[submodule "dragulaR"]
+	path = dragulaR
+	url = https://github.com/zzawadz/dragular
+	shallow = true
+	registered = true
