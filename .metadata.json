@@ -2,5 +2,9 @@
   {
     "package": "DepthProc",
     "oncran": true
+  },
+  {
+    "package": "dragulaR",
+    "oncran": true
   }
 ]
