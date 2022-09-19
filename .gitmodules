@@ -8,8 +8,3 @@
 	url = https://github.com/zzawadz/depthproc
 	shallow = true
 	registered = true
-[submodule "dragulaR"]
-	path = dragulaR
-	url = https://github.com/zzawadz/dragular
-	shallow = true
-	registered = true
